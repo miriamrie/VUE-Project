@@ -1,5 +1,5 @@
 # Website-VUE-project 
-Hey! This is for a portfolio website-project using the VUE-Framework to create a fast responsive design. My Role has been the UI Designer and Developer to create a great layout for the M/R Studio Website Portfolio. I love Graphic Design and Animated Components.
+Hey! This is for the portfolio website-project M/R Studio using the VUE-Framework to create a fast responsive design. My Role has been the UI Designer and Developer to create a great layout for the M/R Studio Website Portfolio. I love Graphic Design and Animated Components.
 
 ![VueIntro](https://github.com/user-attachments/assets/07777a9e-380e-478a-8d24-a7b340e73222)
 
